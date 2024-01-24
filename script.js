@@ -34,7 +34,7 @@ function getQuotes() {
 function showToast(message) {
     Toastify({
         text: message,
-        duration: 3000,
+        duration: 2000,
         close: true,
         gravity: 'bottom',
         position: 'right',
